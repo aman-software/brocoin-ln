@@ -1,5 +1,5 @@
 {
-  "name": "brocoin-ln",
+  "name": "brocoin-lnd",
   "version": "0.3.24",
   "description": "Download the latest lnd binary",
   "main": "./dist/index.js",
